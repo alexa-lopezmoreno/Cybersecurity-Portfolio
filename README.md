@@ -64,7 +64,7 @@ Security work should be ethical and responsible. Everything in this repository i
 ## How to explore this repo
 - Start with the top-level README in the project folder you're interested in.
 - Many projects include a `setup` script or Docker compose file to spin up labs locally.
-- Look through folder for step-by-step documentation.
+- Look through each folder for step-by-step documentation.
 
 ---
 
