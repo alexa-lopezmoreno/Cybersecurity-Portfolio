@@ -1,5 +1,3 @@
-# Cybersecurity-Portfolio
-This is a Cybersecurity portfolio showcasing projects and labs completed for the Google Cybersecurity Certificate.
 # Cybersecurity Portfolio
 
 Welcome — this is my Cybersecurity Portfolio.
@@ -38,15 +36,13 @@ Examples:
 - Incident Response Timeline — simulated incident analysis, containing logs, triage notes, and remediation steps.
 - Access Control Hardening — practical hardening steps and test harnesses to verify access rules.
 
-(If you want a dedicated "Showcase" page for each project, I can add a project index with badges, timestamps, and short summaries.)
-
 ---
 
 ## Skills & Tools
 Technologies and areas you'll encounter in this repo:
 - Languages: Python, Bash, PowerShell (scripts for automation and tooling)
-- Security tooling: Nmap, Wireshark, Burp Suite, Metasploit, OSSEC, Zeek, etc.
-- Cloud & infra: basic labs on AWS/GCP (local emulated), Docker, Terraform snippets for lab provisioning
+- Security tooling: Nmap, Wireshark, etc.
+- Cloud & infra: basic labs on AWS/GCP (local emulated), Terraform snippets for lab provisioning
 - Concepts: Threat modeling, vulnerability assessment, network analysis, log ingestion & parsing, incident response workflows, secure coding checks
 
 This repo emphasizes practical skills: how to build a test environment, how to capture evidence, and how to document findings clearly and reproducibly.
@@ -68,13 +64,7 @@ Security work should be ethical and responsible. Everything in this repository i
 ## How to explore this repo
 - Start with the top-level README in the project folder you're interested in.
 - Many projects include a `setup` script or Docker compose file to spin up labs locally.
-- Look for folders named `notes`, `repro`, or `walkthrough` for step-by-step documentation.
-- If you want to run any demos locally, read the project's README for prerequisites (Docker, Python version, virtualenv, etc.) and safety warnings.
-
-Example quick-start:
-1. Clone the repo: `git clone https://github.com/alexa-lopezmoreno/Cybersecurity-Portfolio.git`
-2. Change into a project directory: `cd Cybersecurity-Portfolio/webapp-pentest-lab`
-3. Read the project README and follow setup steps.
+- Look through folder for step-by-step documentation.
 
 ---
 
